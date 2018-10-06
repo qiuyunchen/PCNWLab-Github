@@ -74,9 +74,9 @@ Insert about me
 
 ---
 ### Qiuyun Chen
-<img src='' width='150'>
+<img src='images/qiu.png' width='150'>
 
-Insert about me
+Call me Q-yen. Not sure what to write so yay Pursuit and GitHub.
 
 ---
 ### Srirupa Datta
